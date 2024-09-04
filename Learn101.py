@@ -1,5 +1,5 @@
 import streamlit as st, pandas as pf, yfinance as yf
-
+ 
 # Page title
 st.set_page_config(page_title='Interactive Data Explorer', page_icon='📊')
 st.title('📊 Intel')
