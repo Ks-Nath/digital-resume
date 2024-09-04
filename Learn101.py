@@ -3,7 +3,7 @@ import plotly.express as px
 
 # Page title
 st.set_page_config(page_title='Interactive Data Explorer', page_icon='📊')
-st.title('📊 Inte')
+st.title('📊 Intel')
 
 # App description - Explain functionalities in an expander box
 with st.expander('About this app'):
