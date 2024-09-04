@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as st 
 
 # Page title
 st.set_page_config(page_title='Interactive Data Explorer', page_icon='📊')
