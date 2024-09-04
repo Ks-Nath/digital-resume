@@ -1,5 +1,4 @@
-import streamlit as st, pandas as pf, numpy as np, yfinance as yf
-import plotly.express as px
+import streamlit as st
 
 # Page title
 st.set_page_config(page_title='Interactive Data Explorer', page_icon='📊')
